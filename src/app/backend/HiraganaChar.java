@@ -1,5 +1,3 @@
-
-
 public class HiraganaChar {
 
     // things a JP char has
@@ -11,7 +9,6 @@ public class HiraganaChar {
         JPCharacter = "";
         engPronounce = "";
     }
-
     // input: JP character, ENG pronunciation 
     public HiraganaChar(String character, String pronounce) {
         JPCharacter = character;
